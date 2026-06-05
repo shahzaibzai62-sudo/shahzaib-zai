@@ -1,5 +1,5 @@
 # shahzaib-zai
-> - Large animated headline:. Now also add/update: "AI Automation • SaaS Development • Mobile App Development • Digital Solutions"
+> - Large animated headline:. Now also add/update: - Cinematic background animation
 
 ## Live Demo
 https://shahzaibzai62-sudo.github.io/shahzaib-zai
