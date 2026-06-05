@@ -1,0 +1,16 @@
+{
+  "name": "shahzaib-zai",
+  "short_name": "shahzaib-zai",
+  "description": "- Large animated headline:",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0e17",
+  "theme_color": "#6C63FF",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/6C63FF/white?text=A",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
