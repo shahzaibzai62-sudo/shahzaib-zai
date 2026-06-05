@@ -1,5 +1,5 @@
 # shahzaib-zai
-> - Large animated headline:. Now also add/update: - Floating particles and light effects
+> - Large animated headline:. Now also add/update: - Smooth entrance animations
 
 ## Live Demo
 https://shahzaibzai62-sudo.github.io/shahzaib-zai
