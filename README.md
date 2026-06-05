@@ -1,5 +1,5 @@
 # shahzaib-zai
-> - Large animated headline:. Now also add/update: - Cinematic background animation
+> - Large animated headline:. Now also add/update: - Floating particles and light effects
 
 ## Live Demo
 https://shahzaibzai62-sudo.github.io/shahzaib-zai
